@@ -19,7 +19,7 @@ import OrderDetails from "./pages/dashboard/OrderDetails";
 import Analytics from "./pages/dashboard/Analytics";
 import Reviews from "./pages/dashboard/Reviews";
 import HomeCustomers from "./pages/dashboard/Customers";
-import Blog from "./pages/dashboard/Blog";
+// import Blog from "./pages/dashboard/Blog";
 
 //Apps
 import Chat from "./pages/apps/Chat";
@@ -111,7 +111,7 @@ const Markup = () => {
     { url: "analytics", component: <Analytics /> },
     { url: "customers", component: <HomeCustomers /> },
     { url: "reviews", component: <Reviews /> },
-    { url: "blog", component: <Blog /> },
+    // { url: "blog", component: <Blog /> },
     //Apps
     { url: "chat", component: <Chat /> },
     { url: "app-profile", component: <AppProfile /> },

@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Dropdown, Modal } from 'react-bootstrap';
 import Select from 'react-select';
-
+import PropTypes from "prop-types";
 import { IMAGES, SVGICON } from '../../constant/theme';
 import SellingMenuSlider from '../../component/dashboard/SellingMenuSlider';
 import { customerData, menus, options, orderSummary, sellingMenus } from '../../constant/alldata';

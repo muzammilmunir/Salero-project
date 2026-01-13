@@ -9,7 +9,7 @@ function OrderDetails() {
             <div className="row">
                 <div className="col-xl-9">
                     <div className="food-map">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14448.885880295826!2d75.81852004999999!3d25.128202399999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1682845569584!5m2!1sen!2sin" width="600" height="450" style={{ border: "0" }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d462118.02491053584!2d67.15546194999999!3d25.193202399999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33e06651d4bbf%3A0x9cf92f44555a0c23!2sKarachi!5e0!3m2!1sen!2s!4v1768340384562!5m2!1sen!2s" width="600" height="450" style={{ border: "0" }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                     <div className="row">
                         <div className="col-xl-4 col-md-6">
@@ -98,7 +98,7 @@ function OrderDetails() {
                                 <div className="card-body">
                                     <div className="profile-bx text-center">
                                         <img src={IMAGES.coustomer3} className="avatar avatar-lg mb-3" alt="" />
-                                        <h4 className="title mb-0">David D Goa</h4>
+                                        <h4 className="title mb-0">Muzammil M.</h4>
                                         <p>Customer</p>
                                         <ul className="d-inline-flex">
                                             <li>
@@ -129,8 +129,8 @@ function OrderDetails() {
                                             <img src={IMAGES.coustomer5} className="avatar avatar-md" alt="avat" />
                                         </li>
                                         <li className="ms-2">
-                                            <h6 className="mb-0">James Sukardi</h6>
-                                            <p className="mb-0 text-primary">#SAL-111234125</p>
+                                            <h6 className="mb-0">Muzammil M.</h6>
+                                            <p className="mb-0 text-primary">#SAL-1234125</p>
                                         </li>
                                     </ul>
                                     <ul className="d-flex mb-3">
@@ -141,7 +141,7 @@ function OrderDetails() {
                                         </li>
                                         <li className="ms-2">
                                             <span className="mb-0">Telephone</span>
-                                            <h6 className="mb-0">021 2346 664</h6>
+                                            <h6 className="mb-0">+92 3327804574</h6>
                                         </li>
                                     </ul>
                                     <ul className="d-flex mb-3">
@@ -152,7 +152,7 @@ function OrderDetails() {
                                         </li>
                                         <li className="ms-2">
                                             <span className="mb-0">Email</span>
-                                            <h6 className="mb-0">info@mail.com	</h6>
+                                            <h6 className="mb-0">muzammilmunir.com</h6>
                                         </li>
                                     </ul>
                                 </div>

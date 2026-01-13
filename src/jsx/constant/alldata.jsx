@@ -617,7 +617,7 @@ export const MenuList = [
             { title: 'Analytics', to: 'analytics', },
             { title: 'Customers', to: 'customers', },
             { title: 'Reviews', to: 'reviews', },
-            { title: 'Blog', to: 'blog', },
+            // { title: 'Blog', to: 'blog', },
         ],
     },
 ]
